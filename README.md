@@ -25,6 +25,9 @@ U repo fajlovima se nalaze:
 UI Prototip sistema sa tačke gledišta pacijenta može se pogledati na sledećem linku:
 https://shorturl.at/OnQ0H
 
+UI Prototip sistema sa tačke doktora može se pogledati na sledećem linku:
+https://shorturl.at/FfCz9
+
 ## Upotrebljeni alati
 
 - Astah Professional – za crtanje dijagrama  
